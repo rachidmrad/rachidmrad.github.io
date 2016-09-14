@@ -6,6 +6,8 @@ var config = {
   staticCacheItems: [
     '/img/',
     '/css/bootstrap.css',
+    '/js/jquery-2.1.1.js',
+    '/js/bootstrap.min.js',
     '/js/app.js',
     '/index.html',
     '/'
